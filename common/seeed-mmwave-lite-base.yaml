@@ -10,8 +10,8 @@ external_components:
 uart:
   id: uart_bus
   baud_rate: 115200
-  rx_pin: 16
-  tx_pin: 17
+  rx_pin: 20
+  tx_pin: 21
   parity: NONE
   stop_bits: 1
 
