@@ -1,6 +1,6 @@
 substitutions:
-  name: "everything-presence-lite"
-  friendly_name: "Everything Presence Lite"
+  name: "eg-epl"
+  friendly_name: "EG_EPL_Kueche"
   illuminance_update_interval: "2s"
   hidden_ssid: "false"
   log_level: DEBUG
