@@ -15,8 +15,8 @@ api:
 
 i2c:
   - id: bus_b
-    sda: 26
-    scl: 27
+    sda: GPIO08
+    scl: GPIO09
     scan: true
 
 sensor:
